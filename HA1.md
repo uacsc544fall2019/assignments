@@ -6,9 +6,9 @@ Version History:
 
 **This assignment is due in two parts:**
 
-A: Due Thursday August 29, 8PM
+A: Due Thursday August 29, 11:59 PM
 
-B: Due Thursday September 5, 8PM 
+B: Due Thursday September 5, 11:59 PM 
 
 
 In this assignment we are:
