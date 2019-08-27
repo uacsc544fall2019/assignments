@@ -2,6 +2,8 @@
 
 Version History: 
 
+- Added direct links to base files while waiting on github classroom,
+  2019/8/26
 - Released, 2019/8/24
 
 **This assignment is due in two parts:**
@@ -39,8 +41,11 @@ LaTeX compilation files (e.g. `reading.pdf` or `reading.aux`).
 Use the following link to create your github repository for this part of the
 assignment: []()
 
+
 Use the templates provided with your Github Classroom repository. Turn in the
-modified `ha1a.html` and `ha1a.css` files
+modified `ha1a.html` and `ha1a.css` files.
+
+(The base files can also be accessed at: [https://github.com/uacsc544fall2019/ha1a-base](https://github.com/uacsc544fall2019/ha1a-base).)
 
 Replace the name in the title with your name.
 
@@ -71,6 +76,8 @@ A sample of the full page is in `HA1/images/544-HA1A-Full.png.`
 
 Use the following link to create your github repository for this part of the
 assignment: []()
+
+The base files can also be accessed at: [https://github.com/uacsc544fall2019/ha1b-base](https://github.com/uacsc544fall2019/ha1b-base).
 
 #### Paper Reading & LaTeX (20 pts)
 
