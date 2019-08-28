@@ -39,7 +39,7 @@ LaTeX compilation files (e.g. `reading.pdf` or `reading.aux`).
 ### Part A: Survey & Visualization Example. (20 pts) 
 
 Use the following link to create your github repository for this part of the
-assignment: []()
+assignment: [https://classroom.github.com/a/TRDhLs6D](https://classroom.github.com/a/TRDhLs6D)
 
 
 Use the templates provided with your Github Classroom repository. Turn in the
