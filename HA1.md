@@ -75,7 +75,7 @@ A sample of the full page is in `HA1/images/544-HA1A-Full.png.`
 ### Part B: Reading, LaTeX, and SVGs 
 
 Use the following link to create your github repository for this part of the
-assignment: []()
+assignment: [https://classroom.github.com/a/7-0bhMP9](https://classroom.github.com/a/7-0bhMP9)
 
 The base files can also be accessed at: [https://github.com/uacsc544fall2019/ha1b-base](https://github.com/uacsc544fall2019/ha1b-base).
 
