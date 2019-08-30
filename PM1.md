@@ -15,7 +15,7 @@ In this milestone we are:
   community and society at large
 - Verifying we can build a more complicated LaTeX file
 
-Github Classroom URL: (https://classroom.github.com/g/LhCl5\_uF)[https://classroom.github.com/g/LhCl5_uF]
+Github Classroom URL: <a href="https://classroom.github.com/g/LhCl5\_uF">https://classroom.github.com/g/LhCl5_uF</a>
 
 Included with this Github Classroom assignment are the LaTeX files required to
 format an IEEE VGTC-style document. You will need to fill in the files
