@@ -11,7 +11,7 @@ In this assignment we are:
 
 - Practicing using the d3js library for visualization
 - Practicing using a design pattern/framework to handle UI events
-- Gaining familiarity reading an interpreting a design study
+- Gaining familiarity reading and interpreting a design study
 
 
 The artifacts generated should be presented in the HTML pages or LaTeX
@@ -110,7 +110,7 @@ dataset from Kaggle. The following enhancements have been made:
 - x and y axes have been added
 - rather than using `svg:title`, hovering over a point writes a text label at
   the top and adds a 2 pixel red outline to it
-- the encoding rule for each channel can be changed via dropdown (`select`) value
+- the encoding rule for each channel can be changed via drop  down (`select`) value
 - the data points can be filtered by beverage type
 - points that appear "grow" into existence, points that disappear "shrink" out
   of existence
@@ -121,17 +121,17 @@ The views should be state-less. Do not store information in the views. This
 includes state information such as which data point is being hovered.
 
 I recommend building this in stages. Here's one such plan but do it in the
-order with which you are most comfortfable:
+order with which you are most comfortable:
 
 1. Build the model assuming a static view with no filtering and hovering.
 
-2. Build a mostly-static scatterplot view and test that it works for static
+2. Build a mostly-static scatter plot view and test that it works for static
    initializations of  `x`, `y`, `size`, and `color` that you set in the
    model. You will need to update the `window.addEventListneer` call to create
    the model and view.
 
 3. Add in the ability to hover over a point and get the label. This requires
-   updating both the model and scatterplot view and creating the controller.
+   updating both the model and scatter plot view and creating the controller.
    Test.
 
 4. Make the ControlsView work for a single drop down. First test the drop
@@ -144,7 +144,7 @@ order with which you are most comfortfable:
 
 There are other orders in which you could complete this assignment. For
 example, if you want to do the d3js later, you could work on the model,
-dropdowns, and controller, testing with `console.log` statements.
+drop downs, and controller, testing with `console.log` statements.
 
 ##### Grading
 
@@ -156,16 +156,16 @@ views are stateless, and UI events are managed by the controller. Not adhering
 to the separation of concerns will result in partial credit for each feature
 where the architecture is violated.
 
-- Scatterplot functionality matching HA1B, done in d3js with scales and
+- Scatter plot functionality matching HA1B, done in d3js with scales and
   drawing data from the model: 20 pts
-- Scatterplot has axes: 10 pts
+- Scatter plot has axes: 10 pts
 - Hovering on a circle outlines the circle and draws the label: 10 pts
-- Dropdowns are appropriately populated: 5 pts
-- Changing a dropdown updates the scatterplot correctly: 15 pts
-- When the scatterplot changes:
+- Drop downs are appropriately populated: 5 pts
+- Changing a drop  down updates the scatter plot correctly: 15 pts
+- When the scatter plot changes:
   - the points that change position are animated: 1 pt
   - the points that appear grow from radius 0: 1 pt
-  - the points thtat disappear shrink to radius 0: 1 pt
+  - the points that disappear shrink to radius 0: 1 pt
   - the axes animate to their new values: 2 pts
 
 
