@@ -83,7 +83,11 @@ change the height and width of the SVGs.
 
 Use the d3js **version 5** library **and no other**. For the SVGs, do not use
 calls to `createElementNS` or `getElementById` etc. You may use these
-functions in `createScatterControlsView` if you choose. 
+functions in `createScatterControlsView` if you choose.
+
+**Note:** d3js version 5 has different scale functions than d3js version 3.
+There are a lot of version 3 examples online. Be sure you're using the
+functions here: [https://github.com/d3/d3-scale](https://github.com/d3/d3-scale). 
 
 For any scaling you must do, you should use the d3js scale functions (e.g.,
 `d3.scaleLinear()`).
