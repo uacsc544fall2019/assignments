@@ -20,7 +20,7 @@ unless explicitly allowed. Do not use HTML tags like `<center>`, `<b>`, or
 `<i>` to alter visual appearance.  Programmatically added SVG elements may
 have style attributes.
 
-Github Classroom Assignment link: ()[]
+Github Classroom Assignment link: [https://classroom.github.com/a/sUICMxvO](https://classroom.github.com/a/sUICMxvO)
 
 Anything you want graded should be in the repository at the due date in the
 `master` (default) branch. Do not forget to `git commit` and `git push` to
