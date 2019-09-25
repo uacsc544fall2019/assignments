@@ -51,7 +51,7 @@ dependent variables be and why? (4 pts)
 5. Why is the rainbow colormap considered harmful? (3 pts)
 
 
-![](HA3/images/BenSchmidtRMPDotplot.jpg)
+![](HA3/images/BenSchmidtRMPDotplot.png)
 
 
 The results should be submitted as a LaTeX `.tex` file that will compile into
