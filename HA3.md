@@ -21,7 +21,7 @@ unless explicitly allowed. Do not use HTML tags like `<center>`, `<b>`, or
 `<i>` to alter visual appearance.  Programmatically added SVG elements may
 have style attributes.
 
-Github Classroom Assignment link: [https://classroom.github.com/a/sUICMxvO](https://classroom.github.com/a/sUICMxvO)
+Github Classroom Assignment link: []()
 
 Anything you want graded should be in the repository at the due date in the
 `master` (default) branch. Do not forget to `git commit` and `git push` to
@@ -51,7 +51,7 @@ dependent variables be and why? (4 pts)
 5. Why is the rainbow colormap considered harmful? (3 pts)
 
 
-![](HA2/images/BenSchmidtRMPDotplot.jpg)
+![](HA3/images/BenSchmidtRMPDotplot.jpg)
 
 
 The results should be submitted as a LaTeX `.tex` file that will compile into
@@ -178,7 +178,7 @@ Clicking on a `radius 12` circle should cause the text details to disappear.
 
 The finished visualization should look as below:
 
-![](HA3/CSC544-HA3.png)
+![](HA3/images/CSC544-HA3.png)
 
 As before, MVC should be used and the views should be state-less. Do not store
 information in the views. This includes state information such as which data
