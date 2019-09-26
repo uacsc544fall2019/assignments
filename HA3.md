@@ -1,4 +1,4 @@
-## Homework Assignment 2
+## Homework Assignment 3
 
 Version History: 
 
@@ -21,7 +21,7 @@ unless explicitly allowed. Do not use HTML tags like `<center>`, `<b>`, or
 `<i>` to alter visual appearance.  Programmatically added SVG elements may
 have style attributes.
 
-Github Classroom Assignment link: []()
+Github Classroom Assignment link: [https://classroom.github.com/a/GQFMMkWq](https://classroom.github.com/a/GQFMMkWq)
 
 Anything you want graded should be in the repository at the due date in the
 `master` (default) branch. Do not forget to `git commit` and `git push` to
@@ -120,9 +120,9 @@ Implement linked, brushable scatter charts as shown in the movie linked here:
 
 A still shot fo the entire framework is further down.
 
-The directory  is pre-populated with  `ha3.html`, `ha3.css`, `ha3.js`, and
-`data.js`. Modify `ha3.html` to put your name in the title. You will modify
-`ha3.js` and `ha3.css` in this assignment to implement the below. Do not
+The directory  is pre-populated with  `HA3.html`, `HA3.css`, `HA3.js`, and
+`data.js`. Modify `HA3.html` to put your name in the title. You will modify
+`HA3.js` and `HA3.css` in this assignment to implement the below. Do not
 change the height and width of the SVGs. 
 
 Use the d3js **version 5** library **and no other**. Do not use calls to
