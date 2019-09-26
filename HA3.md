@@ -34,7 +34,7 @@ Answer the following questions:
 
 1. Below is a screen capture of Ben Schmidt's Rate My Professors analysis and
    visualization, taken from
-[https://twitter.com/benmschmidt/status/563754577359814656](this tweet).  (a)
+[this tweet](https://twitter.com/benmschmidt/status/563754577359814656).  (a)
 Describe a plausible data abstraction of the data here, including what the
 data items are, their attributes, and the types for each attribute. (4 pts)
 (b) What are the marks, channels, and encoding rules? (4 pts)
