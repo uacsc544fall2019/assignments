@@ -116,7 +116,7 @@ readability of your answers.
 ### Visualization with d3js (60 pts as divided below) 
 
 Implement linked, brushable scatter charts as shown in the movie linked here:
-[HA3/videos/HA3-Scatters.mov](HA3/videos/HA3-Scatterplots.mov)
+[HA3/videos/HA3-Scatters.mov](HA3/videos/HA3-Scatters.mov)
 
 A still shot fo the entire framework is further down.
 
