@@ -19,7 +19,7 @@ unless explicitly allowed. Do not use HTML tags like `<center>`, `<b>`, or
 `<i>` to alter visual appearance.  Programmatically added SVG elements may
 have style attributes.
 
-Submit your assignment through Github Classroom: ![https://classroom.github.com/a/B3wRQgnl](https://classroom.github.com/a/B3wRQgnl)
+Submit your assignment through Github Classroom: [https://classroom.github.com/a/B3wRQgnl](https://classroom.github.com/a/B3wRQgnl)
 
 ### Paper Reading (20 pts)
 
@@ -97,7 +97,7 @@ Clicking on the view will cause the next graph to appear.
 The finished visualization should look as below. In the `HA4/movies/` directory, there
 is also a movie showing the transition animations.
 
-<img src="HA4/images/CSC544-HA4.png" height="250">
+<img src="HA4/images/CSC544-HA4.png" height="300">
 
 
 #### Data
