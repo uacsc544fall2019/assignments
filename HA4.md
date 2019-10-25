@@ -97,7 +97,7 @@ Clicking on the view will cause the next graph to appear.
 The finished visualization should look as below. In the `HA4/movies/` directory, there
 is also a movie showing the transition animations.
 
-<img src="HA4/images/CSC544-HA4.png" height="250")
+<img src="HA4/images/CSC544-HA4.png" height="250">
 
 
 #### Data
@@ -117,7 +117,7 @@ You will alter these graph objects by adding code to the functions `_RT`,
 function `calculateGraphLayout`. The code should add `x` and `y` values to the
 nodes using the Reingold Tilford Tidy Tree Layout as discussed in class.  You
 may also refer to the original paper
-![http://reingold.co/tidier-drawings.pdf](here). More information about each
+[http://reingold.co/tidier-drawings.pdf](here). More information about each
 of these functions and what they should do can be found in `HA4.js`. 
 
 Note that rather than using the spare left and right pointers to describe the
