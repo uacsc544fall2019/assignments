@@ -97,7 +97,7 @@ Clicking on the view will cause the next graph to appear.
 The finished visualization should look as below. In the `HA4/movies/` directory, there
 is also a movie showing the transition animations.
 
-![](HA4/images/CSC544-HA4.png)
+<img src="HA4/images/CSC544-HA4.png" height="250")
 
 
 #### Data
