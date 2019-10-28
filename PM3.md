@@ -2,6 +2,7 @@
 
 Version History: 
 
+- Revision re: code, 2019/10/27
 - Released, 2019/10/14
 
 
@@ -107,7 +108,7 @@ script demonstrating that library works.
 Code associated with the contribution, including proof of concepts, should be
 available in the Project directory at the top level of your repository. Some
 of it is required to run. **Instructions for how to get it to run must be
-included in the Project directory in a file called README.md** 
+included in the Project directory in a file called README.md. Revision 2019/10/27: If y ou are dealing with huge data, do not upload huge data to repository. If you can include a toy dataset, do that instead. Otherwise, email me and we'll work something out like a live demo or extended movie.** 
 
 If you collected data for the visualization of this milestone, please describe
 your data collection efforts here. What did you do to collect the data? Is
