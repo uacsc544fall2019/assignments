@@ -2,6 +2,7 @@
 
 Version History: 
 
+- Revision re: PM3.pdf, 2019/10/31 (I will still accept P32.pdf too)
 - Revision re: code, 2019/10/27
 - Released, 2019/10/14
 
@@ -30,7 +31,7 @@ document. Like in PM2, I am not providing the rest of the files. You
 will likely want to copy `PM2.tex` from last milestone and adapt it to
 the requirements below.
 
-There should be a `PM3.tex` file that compiles into a `P32.pdf` file when I
+There should be a `PM3.tex` file that compiles into a `PM3.pdf` file when I
 type `make`.
 
 Create a folder named `Project` in your repository. This folder should include
