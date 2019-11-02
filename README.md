@@ -9,3 +9,4 @@ This repository contains descriptions of homework assignments and related docume
 - Project Milestone 2: [PM2.md](PM2.md)
 - Project Milestone 3: [PM3.md](PM3.md)
 - Homework Assignment 4: [HA4.md](HA4.md)
+- Project Milestone 4: [PM4.md](PM4.md)
