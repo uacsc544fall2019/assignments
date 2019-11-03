@@ -2,7 +2,7 @@
 
 Version History: 
 
-- Released, 2018/11/3
+- Released, 2019/11/3
 
 
 Due Thursday November 21, 11:59PM
@@ -88,7 +88,7 @@ visualization researchers. It should describe:
 - the design choices and the rationale behind them
 - how the design relates to the data and task abstractions
 
-Use figures to describe your visualization. 
+**Use figures to describe your visualization.**
 
 You may refer back to your PM2 or PM3 for the data and task abstraction or you
 may copy those sections from the previous milestones in a section called `Data
@@ -129,7 +129,7 @@ visualization researchers. It should describe:
 - the design in terms of variables, conditions, and format
 - the design choices and the rationale 
 
-Use figures if applicable. 
+**Use figures where applicable.**
 
 You may refer back to your previous project milestones for your rationale or
 to prior work. You can copy a section from a previous milestone if it makes
