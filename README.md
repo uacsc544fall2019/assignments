@@ -11,3 +11,4 @@ This repository contains descriptions of homework assignments and related docume
 - Homework Assignment 4: [HA4.md](HA4.md)
 - Project Milestone 4: [PM4.md](PM4.md)
 - Project Presentations: [PP.md](PP.md)
+- Project Milestone 5: [PM5.md](PM5.md)
