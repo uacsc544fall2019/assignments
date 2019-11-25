@@ -48,12 +48,12 @@ human scripts), and raw data collected during evaluation).
 
 Your PM5 report should include several sections:
 
-#### Abstract
+#### Abstract (5 pts)
 
 Briefly describe your project and contributions you have made for this
 milestone.
 
-#### Section: Overview
+#### Section: Overview (5 pts)
 
 Create a top level section called `Overview`. In this section, describe the
 overall goal of your project -- what overarching problem is it trying to help
@@ -62,7 +62,7 @@ visualization aspect of that problem that your project entails.
 
 Then, summarize what work was completed for this milestone. 
 
-#### Section: Technical Progress
+#### Section: Technical Progress (15 pts incl. code and movie)
 
 Create a section called `Technical Progress`. If you continued to refine the
 technical pieces of this project past PM4, describe how you have done so in
@@ -70,7 +70,7 @@ this section. If you have not, create the section and write `Not Applicable`.
 Note: if your system is too buggy for your evaluation, then your evaluation
 results may not be valid.
 
-#### Section: Evaluation
+#### Section: Evaluation (50 pts total)
 
 **This section is for Visualization Design Projects.**
 
@@ -100,15 +100,15 @@ all your evaluations and what those results indicate regarding your project.
 Create a subsection called `Limitations` where you discuss the limitations of
 your evaluation approach, what other forms of evaluation you could *feasibily*
 conduct to mitigate those limitations, and what these limitations mean for
-your conclusions.
+your conclusions. (10 pts)
 
 Create a subsection called `Future Evaluation` where you discuss how you would
 evaluate this project if you had more time and resources. The proposed
 evaluation should be **feasible**. For example, it's possible you may recruit
 several rocket scientists for a half hour study but you probably cannot
-recruit 100s of rocket scientists for a 2 hour study.
+recruit 100s of rocket scientists for a 2 hour study. (10 pts)
 
-#### Section: Results and Section: Analysis
+#### Section: Results and Section: Analysis (50 pts total)
 
 **These sections are for projects focusing on conducting a study.**
 
@@ -126,23 +126,23 @@ fafmiliarity with your project domain.
 Under `Analysis`, create a subsection called `Limitations` where you discuss
 the limitations of your study, what other studies you could *feasibily*
 conduct to mitigate those limitations, and what these limitations mean for
-your conclusions.
+your conclusions. (10 pts)
 
 Create another subsection under `Analysis` called `Future Studies` where you
 discuss how you would extend this project if you had more time and resources.
 The proposed extension should be **feasible**. For example, it's possible you
 may recruit several rocket scientists for a half hour study but you probably
-cannot recruit 100s of rocket scientists for a 2 hour study.
+cannot recruit 100s of rocket scientists for a 2 hour study.  (10 pts)
 
 
-#### Section: Lessons Learned
+#### Section: Lessons Learned (20 pts)
 
 In this section, reflecting upon your project milestones, discuss what lessons
 were learned that could possibly be transferred to other visualization
 problems and contexts.
 
 
-#### Section: Project Summary
+#### Section: Project Summary (5 pts)
 
 In this section, summarize your project as a whole, discussing what you did
 during the course of this project and what contributions were presented in
