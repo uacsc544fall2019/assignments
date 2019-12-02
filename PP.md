@@ -2,6 +2,7 @@
 
 Version History: 
 
+- URL for Feedback Form: [https://forms.gle/rGaFRjyNtEqbPYnv7](https://forms.gle/rGaFRjyNtEqbPYnv7)
 - Released, 2019/11/5
 
 
@@ -73,7 +74,24 @@ feedback was, including the tone of the feedback.
 This class has ten projects. Presentations will be scheduled on December 2nd,
 4th, and 9th as follows:
 
-TBD in class
+Dec 2:
+
+- Zoe
+- Carina
+- Sayef
+- Newbies
+
+Dec 4:
+
+- MyTeamName
+- Connor
+- ipMap
+
+Dec 9:
+
+- Jason
+- Same Stats, Different Graphs
+- Moonsung
 
 
 ### Grading
